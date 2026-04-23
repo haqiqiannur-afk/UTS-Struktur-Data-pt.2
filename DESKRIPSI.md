@@ -1,3 +1,9 @@
+Nama     : Abdullah Shohih Haqiqi Annur </br>
+NPM      : 25161562004 </br>
+Kelas    : 2A Informatika </br></br>
+<img width="720" height="720" alt="WhatsApp Image 2026-04-24 at 00 47 31" src="https://github.com/user-attachments/assets/20616e74-e945-4780-965f-e6e45b00241f" />
+</br></br>
+
 # Fungsi Rekrusif
 Fungsi rekursif adalah teknik pemrograman di mana sebuah fungsi memanggil dirinya sendiri secara langsung maupun tidak langsung untuk menyelesaikan masalah. Fungsi ini memecah masalah kompleks menjadi sub-masalah yang lebih kecil, mengulangi proses hingga mencapai kondisi berhenti (base case) agar tidak terjadi perulangan tak terbatas.
 
